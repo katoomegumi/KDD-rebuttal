@@ -6,5 +6,3 @@ The following figure provides a visual sanity check of our generative process. I
 ![Real vs Generated Comparison1](visual_comparison1.png)
 
 
-![Real vs Generated Comparison2](visual_comparison2.png)
-
