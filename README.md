@@ -3,6 +3,8 @@ This repo provides a visual comparison between real training data and generated 
 ## Visualization
 The following figure provides a visual sanity check of our generative process. It compares original training data with generated samples to verify that $D^2FKD$ generates generic class-level information rather than memorizing private training instances.Figure LayoutLeft Column (8x10 Grid): 8 randomly selected real images per class from the training set.Right Column (8x10 Grid): 8 corresponding generated samples per class.
 
-![Real vs Generated Comparison](visual_comparison1.png)
+![Real vs Generated Comparison1](visual_comparison1.png)
 
+
+![Real vs Generated Comparison2](visual_comparison2.png)
 
